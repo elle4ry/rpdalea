@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.conteiner{
+    padding: 15px;
+    margin: 10px;
+    height: 100cap;
+    width: 100cap;
+    border: 5px solid #455B2D;
+    background-color: #69793B;
+}
